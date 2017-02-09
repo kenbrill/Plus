@@ -7,3 +7,4 @@
  */
 $thisIsATest=1;
 $hi=1;
+$commit2=1;
